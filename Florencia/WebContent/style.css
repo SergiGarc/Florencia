@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	background-color: #c6d7b0;
+}
+
+h1 {
+	color: hsl(240, 65%, 25%);
+	font-weight: 900;
+	letter-spacing: 50px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+h2 {
+	clear: both;
+	background-color: hsl(68, 30%, 30%);
+	color: white;
+}
+
+.bold {
+	font-weight: bold;
+}
