@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+    background-color: hsl(67, 10%, 75%);
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+h1 {
+	color: hsl(240, 65%, 25%);
+	font-weight: 900;
+	letter-spacing: 50px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+h2 {
+	clear: both;
+	background-color: hsl(68, 30%, 30%);
+	color: white;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.right {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+    clear: both;
+    font-size: 80%;
+}
